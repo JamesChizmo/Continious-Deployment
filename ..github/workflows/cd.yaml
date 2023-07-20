@@ -5,12 +5,6 @@ on:
   push: 
 
     branches: [ dev ] 
-     #paths:  
-
-    #- 'factorial.py'  
-    #- 'lint.py'  
-    #- 'pytest_test.py'  
-
 jobs: 
 
   build: 
