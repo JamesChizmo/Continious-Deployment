@@ -5,8 +5,7 @@ on:
   push: 
 
     branches: [ dev ] 
-
-    #paths:  
+     #paths:  
 
     #- 'factorial.py'  
     #- 'lint.py'  
